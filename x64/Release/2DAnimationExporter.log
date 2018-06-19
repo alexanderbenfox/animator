@@ -1,0 +1,9 @@
+﻿  viewer.cpp
+c:\users\alex\source\repos\2danimationexporter\2danimationexporter\viewer.cpp(38): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\alex\source\repos\2danimationexporter\2danimationexporter\viewer.cpp(68): warning C4101: 'e': unreferenced local variable
+  Generating code
+  8 of 1288 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    11 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  2DAnimationExporter.vcxproj -> C:\Users\Alex\source\repos\2DAnimationExporter\x64\Release\2DAnimationExporter.exe

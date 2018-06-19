@@ -1,0 +1,18 @@
+﻿  guiwindow.cpp
+  importsheet.cpp
+  main.cpp
+  spritesheet.cpp
+  viewer.cpp
+c:\users\alex\source\repos\2danimationexporter\2danimationexporter\viewer.cpp(30): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\alex\source\repos\2danimationexporter\2danimationexporter\viewer.cpp(60): warning C4101: 'e': unreferenced local variable
+  window.cpp
+c:\users\alex\source\repos\2danimationexporter\2danimationexporter\util.h(51): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\alex\source\repos\2danimationexporter\2danimationexporter\window.cpp(45): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+c:\users\alex\source\repos\2danimationexporter\2danimationexporter\window.cpp(53): warning C4244: '=': conversion from 'Uint32' to 'float', possible loss of data
+c:\users\alex\source\repos\2danimationexporter\2danimationexporter\window.cpp(73): warning C4018: '>=': signed/unsigned mismatch
+c:\users\alex\source\repos\2danimationexporter\2danimationexporter\window.cpp(76): warning C4244: 'argument': conversion from 'Uint32' to 'float', possible loss of data
+c:\users\alex\source\repos\2danimationexporter\2danimationexporter\window.cpp(79): warning C4244: 'argument': conversion from 'Uint32' to 'float', possible loss of data
+  Generating Code...
+LINK : warning LNK4044: unrecognized option '/sdl'; ignored
+LINK : warning LNK4044: unrecognized option '/sdl'; ignored
+  2DAnimationExporter.vcxproj -> C:\Users\Alex\source\repos\2DAnimationExporter\x64\Debug\2DAnimationExporter.exe
